@@ -5,4 +5,6 @@ public interface IComputeEmpWage {
 
 	public void Compute_Emp_Wage();
 
+	public int Get_Total_Wage(String Company);
+
 }
